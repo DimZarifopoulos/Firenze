@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottomNav"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="#365148"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingHorizontal="8dp">
+
+    <TextView
+        android:id="@+id/navHome"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Home"
+        android:textColor="#F5E8C8"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/navFav"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Saved"
+        android:textColor="#F5E8C8"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/navQuiz"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Quiz"
+        android:textColor="#F5E8C8"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/navProfile"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Profile"
+        android:textColor="#F5E8C8"
+        android:textStyle="bold" />
+
+</LinearLayout>

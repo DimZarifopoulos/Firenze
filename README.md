@@ -33,4 +33,4 @@ MyCityGuide is an Android application designed to serve as a digital tour guide 
 * **Code Organization:** Built with a focus on reusable procedures and clean code practices to minimize repetition.
 
 ---
-*Developed for the "Software Development for Mobile Devices" course (2025-2026) for the MSc in Informatics.*
+*Developed as a team project for the "Software Development for Mobile Devices" course (2025-2026) for the MSc in Informatics.*

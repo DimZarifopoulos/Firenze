@@ -19,7 +19,7 @@ MyCityGuide is an Android application designed to serve as a digital tour guide 
 
 ### 🔊 Accessibility & Details
 * The details page includes an "Listen" button that utilizes Text-to-Speech (TTS) to narrate the POI description.
-* Integrated web view to load external resources (e.g., Wikipedia links) directly within the app.
+* Integrated web view to load external resources (Wikipedia links) directly within the app.
 
 ### 📊 Database & User Statistics
 * A local database stores user information (name, age) and tracks usage counters (how many times each POI has been opened or listened to).
@@ -29,7 +29,7 @@ MyCityGuide is an Android application designed to serve as a digital tour guide 
 * After viewing or listening to a POI, users can take a multiple-choice quiz to test their knowledge, with a final score display.
 
 ## Technical Implementation
-* **Development Tools:** Developed using either MIT App Inventor or Android Studio.
+* **Development Tools:** Developed using Android Studio.
 * **Code Organization:** Built with a focus on reusable procedures and clean code practices to minimize repetition.
 
 ---
